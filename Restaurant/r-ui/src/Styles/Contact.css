@@ -1,0 +1,9 @@
+.c-im{
+    width: 100%;
+    height: 300px !important;
+}
+.c-mains{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
